@@ -1,1 +1,3 @@
 hii
+
+i have edited this line in  global repository  so use =   $ git pull origin main  =  in command prompt  to get this changes in our local system repository
